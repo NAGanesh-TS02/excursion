@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    text-align: center;
+    margin: 20px ;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.middle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+.bottem{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white; 
+}
+#text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: gray; 
+}
+#copyright{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: gray; 
+    text-align: right;
+}
